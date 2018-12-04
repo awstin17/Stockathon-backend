@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongo": {
+    "host": "",
+    "port": 0,
+    "url": "mongodb://awstin17:Blorinthium2!@ds147011.mlab.com:47011/fp-stocks",
+    "database": "fp-stocks",
+    "password": "Blorinthium2!",
+    "name": "mongo",
+    "user": "awstin17",
+    "connector": "mongodb"
+  }
+}
